@@ -7,7 +7,7 @@
 
 - 👯 Looking to collaborate on **Innovative Projects**
 
-- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
+- 🔭 Always be learning new technologies for a competitive edge.
 
 - 📚 Love reading books on personal development & financial literacy. 
 
