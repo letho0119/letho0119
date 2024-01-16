@@ -1,7 +1,5 @@
 # Thanks for visiting my Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<img align="right" src="https://img.shields.io/github/followers/robpark04?label=Follow&style=social" />
-<h1 align="center"></h1>
 <a target="blank" href="https://profile-counter.glitch.me/comwonderfula/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/comwonderfula/count.svg" /></a>
 
 <p align="center">
