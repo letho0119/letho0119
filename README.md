@@ -8,19 +8,17 @@
 
 ## ⚡️ A Few Quick Facts
 
-<div>
-  <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="300"/>
-  
-  <p align="center">
-  
-    😎 Interested in contributing expertise in web and blockchain development
-  
-    👯 Looking to collaborate on **Innovative Projects**
-  
-    🔭 Always be learning new technologies for a competitive edge.
-  
-    📚 Quotes: *Dream as if you will live forever, live as if you wil die today.*
+<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="300"/>
 
-  </p>
+<p align="center">
 
-</div>
+😎 Interested in contributing expertise in web and blockchain development
+
+👯 Looking to collaborate on **Innovative Projects**
+
+🔭 Always be learning new technologies for a competitive edge.
+
+📚 Quotes: *Dream as if you will live forever, live as if you wil die today.*
+
+</p>
+
